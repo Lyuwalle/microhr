@@ -8,7 +8,7 @@
 - 空的数据库（第一次启动的时候需要）
 - redis（要用docker打开    docker start containnerID）
 - rabbitmq（要用docker打开）
-application.properties中的host都修改成当前linux中的ip地址
+application.properties中的host都修改成当前linux中的ip地址(修改vhr-web和vhrmailserver中的配置文件)
 ## 启动redis
 项目中配置的redis端口是6379，密码是123456
 在docker中启动redis之后还要重新授权123456密码

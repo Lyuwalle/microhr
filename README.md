@@ -25,3 +25,7 @@ OK
 docker exec -it c1d030a37c09 redis-cli（c1d030a37c09为id）
 ## 启动项目
 后端端口：8081，前端端口：8080
+
+### 终端查看mysql数据库
+mysql -u root -p
+输入密码就可以进入，命令加分号

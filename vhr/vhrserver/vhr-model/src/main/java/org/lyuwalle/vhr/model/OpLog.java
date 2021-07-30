@@ -1,7 +1,10 @@
 package org.lyuwalle.vhr.model;
 
+import lombok.Data;
+
 import java.util.Date;
 
+@Data
 public class OpLog {
     private Integer id;
 
@@ -11,35 +14,4 @@ public class OpLog {
 
     private Integer hrid;
 
-    public Integer getId() {
-        return id;
-    }
-
-    public void setId(Integer id) {
-        this.id = id;
-    }
-
-    public Date getAdddate() {
-        return adddate;
-    }
-
-    public void setAdddate(Date adddate) {
-        this.adddate = adddate;
-    }
-
-    public String getOperate() {
-        return operate;
-    }
-
-    public void setOperate(String operate) {
-        this.operate = operate == null ? null : operate.trim();
-    }
-
-    public Integer getHrid() {
-        return hrid;
-    }
-
-    public void setHrid(Integer hrid) {
-        this.hrid = hrid;
-    }
 }

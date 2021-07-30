@@ -61,5 +61,6 @@
     <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:9.0.41" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-web:5.3.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:5.3.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.projectlombok:lombok:1.18.20" level="project" />
   </component>
 </module>

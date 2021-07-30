@@ -1,10 +1,12 @@
 package org.lyuwalle.vhr.model;
 
+import lombok.Data;
 import org.springframework.boot.context.properties.bind.DefaultValue;
 
 import java.util.Date;
 
 //数据库中的Mail_Send_Log
+@Data
 public class MailSendLog {
     private String msgId;
     private Integer empId;
@@ -21,75 +23,4 @@ public class MailSendLog {
 //    public MailSendLog(){
 //        this.count = 0;
 //    }
-    public String getMsgId() {
-        return msgId;
-    }
-
-    public void setMsgId(String msgId) {
-        this.msgId = msgId;
-    }
-
-    public Integer getEmpId() {
-        return empId;
-    }
-
-    public void setEmpId(Integer empId) {
-        this.empId = empId;
-    }
-
-    public Integer getStatus() {
-        return status;
-    }
-
-    public void setStatus(Integer status) {
-        this.status = status;
-    }
-
-    public String getRouteKey() {
-        return routeKey;
-    }
-
-    public void setRouteKey(String routeKey) {
-        this.routeKey = routeKey;
-    }
-
-    public String getExchange() {
-        return exchange;
-    }
-
-    public void setExchange(String exchange) {
-        this.exchange = exchange;
-    }
-
-    public Integer getCount() {
-        return count;
-    }
-
-    public void setCount(Integer count) {
-        this.count = count;
-    }
-
-    public Date getTryTime() {
-        return tryTime;
-    }
-
-    public void setTryTime(Date tryTime) {
-        this.tryTime = tryTime;
-    }
-
-    public Date getCreateTime() {
-        return createTime;
-    }
-
-    public void setCreateTime(Date createTime) {
-        this.createTime = createTime;
-    }
-
-    public Date getUpdateTime() {
-        return updateTime;
-    }
-
-    public void setUpdateTime(Date updateTime) {
-        this.updateTime = updateTime;
-    }
 }

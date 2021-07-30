@@ -1,7 +1,10 @@
 package org.lyuwalle.vhr.model;
 
+import lombok.Data;
+
 import java.util.Date;
 
+@Data
 public class MsgContent {
     private Integer id;
 
@@ -11,35 +14,12 @@ public class MsgContent {
 
     private Date createdate;
 
-    public Integer getId() {
-        return id;
-    }
-
-    public void setId(Integer id) {
-        this.id = id;
-    }
-
-    public String getTitle() {
-        return title;
-    }
-
     public void setTitle(String title) {
         this.title = title == null ? null : title.trim();
-    }
-
-    public String getMessage() {
-        return message;
     }
 
     public void setMessage(String message) {
         this.message = message == null ? null : message.trim();
     }
 
-    public Date getCreatedate() {
-        return createdate;
-    }
-
-    public void setCreatedate(Date createdate) {
-        this.createdate = createdate;
-    }
 }

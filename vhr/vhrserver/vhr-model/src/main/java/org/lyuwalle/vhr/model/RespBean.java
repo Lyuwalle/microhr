@@ -1,8 +1,11 @@
 package org.lyuwalle.vhr.model;
 
+import lombok.Data;
+
 /**
  * 一个处理响应的实体类,config/SecurityConfig中处理登陆成功失败
  */
+@Data
 public class RespBean {
 
     private Integer status;
@@ -43,26 +46,14 @@ public class RespBean {
         this.obj = obj;
     }
 
-    public Integer getStatus() {
-        return status;
-    }
-
     public RespBean setStatus(Integer status) {
         this.status = status;
         return this;
     }
 
-    public String getMsg() {
-        return msg;
-    }
-
     public RespBean setMsg(String msg) {
         this.msg = msg;
         return this;
-    }
-
-    public Object getObj() {
-        return obj;
     }
 
     public RespBean setObj(Object obj) {

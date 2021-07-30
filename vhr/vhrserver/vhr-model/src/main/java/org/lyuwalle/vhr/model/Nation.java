@@ -1,8 +1,11 @@
 package org.lyuwalle.vhr.model;
 
+import lombok.Data;
+
 import java.io.Serializable;
 import java.util.Objects;
 
+@Data
 public class Nation implements Serializable {
     private Integer id;
 
@@ -28,18 +31,6 @@ public class Nation implements Serializable {
     public int hashCode() {
 
         return Objects.hash(name);
-    }
-
-    public Integer getId() {
-        return id;
-    }
-
-    public void setId(Integer id) {
-        this.id = id;
-    }
-
-    public String getName() {
-        return name;
     }
 
     public void setName(String name) {

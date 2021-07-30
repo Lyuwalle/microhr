@@ -40,7 +40,7 @@ public class Department implements Serializable {
     private Boolean enabled;
 
     private Boolean isParent;
-    private List<Department> children = new ArrayList<>();
+    private List<Department> children = new ArrayList<Department>();
     private Integer result;
 
     public Integer getResult() {

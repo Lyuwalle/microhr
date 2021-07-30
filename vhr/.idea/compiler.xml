@@ -6,19 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="vhr-web" />
         <module name="vhr-service" />
-        <module name="vhr-mapper" />
-        <module name="vhr-model" />
+        <module name="vhr-web" />
         <module name="vhrmailserver" />
+        <module name="vhr-model" />
+        <module name="vhr-mapper" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="vhr" target="1.8" />
       <module name="vhr-commons" target="1.8" />
       <module name="vhr-mapper" target="1.8" />
-      <module name="vhr-model" target="1.8" />
-      <module name="vhr-service" target="1.8" />
+      <module name="vhr-model" target="7" />
+      <module name="vhr-service" target="8" />
       <module name="vhr-web" target="1.8" />
       <module name="vhrmailserver" target="1.8" />
       <module name="vhrserver" target="1.8" />

@@ -62,7 +62,18 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
     /*以下这些urL不会经过SpringSecurity拦截，不用登录就可以访问这些接口*/
     @Override
     public void configure(WebSecurity web) throws Exception {
-        web.ignoring().antMatchers("/css/**", "/js/**", "/index.html", "/img/**", "/fonts/**", "/favicon.ico", "/verifyCode", "/login");
+        web.ignoring().antMatchers(
+                "/css/**",
+                "/js/**",
+                "/index.html",
+                "/img/**",
+                "/fonts/**",
+                "/favicon.ico",
+                "/verifyCode",
+                "/login",
+                "/hello",
+                "/employee/basic/hello"
+        );
     }
 
     @Override

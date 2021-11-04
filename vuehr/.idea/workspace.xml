@@ -2,378 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb25b9b3-d64c-49d9-951a-13d928d49bdc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_10_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__com_rabbitmq_http_client_3_8_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__com_sun_mail_jakarta_mail_1_6_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__com_zaxxer_SparseBitSet_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__commons_codec_commons_codec_1_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__io_lettuce_lettuce_core_6_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__io_netty_netty_buffer_4_1_55_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__io_netty_netty_codec_4_1_55_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__io_netty_netty_common_4_1_55_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__io_netty_netty_handler_4_1_55_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__io_netty_netty_resolver_4_1_55_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__io_netty_netty_transport_4_1_55_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__io_projectreactor_reactor_core_3_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__net_oschina_zcx7878_fastdfs_client_java_1_27_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_apache_commons_commons_math3_3_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_apache_poi_poi_4_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_41.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_41.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_assertj_assertj_core_3_18_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_hamcrest_hamcrest_library_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_mockito_mockito_core_3_6_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_6_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_mybatis_mybatis_3_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_objenesis_objenesis_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_junit_2_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_test_2_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_mail_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_websocket_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_spring_aop_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_spring_beans_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_spring_context_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_spring_context_support_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_spring_core_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_spring_expression_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_spring_messaging_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_spring_oxm_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_spring_test_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_spring_tx_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_spring_web_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_springframework_spring_websocket_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/libraries/Maven__org_yaml_snakeyaml_1_27.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhr.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrmailserver/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrmailserver/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrmailserver/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrmailserver/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrmailserver/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrmailserver/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrmailserver/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrmailserver/src/main/java/com/lyuwalle/vhrmailserver/VhrmailserverApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrmailserver/src/main/java/com/lyuwalle/vhrmailserver/receiver/MailReceiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrmailserver/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrmailserver/src/main/resources/templates/mail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrmailserver/src/test/java/com/lyuwalle/vhrmailserver/VhrmailserverApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/AdjustSalaryMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/AdjustSalaryMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/AppraiseMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/AppraiseMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/DepartmentMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/DepartmentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/EmpSalaryMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/EmpSalaryMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/EmployeeMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/EmployeeMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/EmployeeecMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/EmployeeecMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/EmployeeremoveMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/EmployeeremoveMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/EmployeetrainMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/EmployeetrainMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/HrMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/HrMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/HrRoleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/HrRoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/JobLevelMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/JobLevelMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/MailSendLogMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/MailSendLogMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/MenuMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/MenuMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/MenuRoleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/MenuRoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/MsgContentMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/MsgContentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/NationMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/NationMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/OpLogMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/OpLogMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/PoliticsstatusMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/PoliticsstatusMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/PositionMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/PositionMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/RoleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/RoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/SalaryMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/SalaryMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/SysMsgMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/src/main/java/org/lyuwalle/vhr/mapper/SysMsgMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/AdjustSalaryMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/AdjustSalaryMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/AppraiseMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/AppraiseMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/DepartmentMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/DepartmentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/EmpSalaryMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/EmpSalaryMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/EmployeeMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/EmployeeMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/EmployeeecMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/EmployeeecMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/EmployeeremoveMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/EmployeeremoveMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/EmployeetrainMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/EmployeetrainMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/HrMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/HrMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/HrRoleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/HrRoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/JobLevelMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/JobLevelMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/MailSendLogMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/MailSendLogMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/MenuMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/MenuMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/MenuRoleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/MenuRoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/MsgContentMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/MsgContentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/NationMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/NationMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/OpLogMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/OpLogMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/PoliticsstatusMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/PoliticsstatusMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/PositionMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/PositionMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/RoleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/RoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/SalaryMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/SalaryMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/SysMsgMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/target/classes/org/lyuwalle/vhr/mapper/SysMsgMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-mapper/vhr-mapper.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/AdjustSalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/Appraise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/ChatMsg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/EmpSalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/Employeeec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/Employeeremove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/Employeetrain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/Hr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/HrRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/JobLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/MailConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/MailSendLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/MenuRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/Meta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/MsgContent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/Nation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/OpLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/Politicsstatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/Position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/RespBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/RespPageBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/Salary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/SysMsg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/AdjustSalary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Appraise.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/ChatMsg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Department.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/EmpSalary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Employeeec.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Employeeremove.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Employeetrain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Hr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/HrRole.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/JobLevel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/MailConstants.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/MailSendLog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Menu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/MenuRole.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Meta.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/MsgContent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Nation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/OpLog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Politicsstatus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Position.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/RespBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/RespPageBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Salary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/SysMsg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/vhr-model.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/src/main/java/org/lyuwalle/vhr/config/RabbitConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/src/main/java/org/lyuwalle/vhr/service/DepartmentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/src/main/java/org/lyuwalle/vhr/service/EmployeeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/src/main/java/org/lyuwalle/vhr/service/HrService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/src/main/java/org/lyuwalle/vhr/service/JobLevelService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/src/main/java/org/lyuwalle/vhr/service/MailSendLogService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/src/main/java/org/lyuwalle/vhr/service/MenuService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/src/main/java/org/lyuwalle/vhr/service/NationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/src/main/java/org/lyuwalle/vhr/service/PoliticsstatusService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/src/main/java/org/lyuwalle/vhr/service/PositionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/src/main/java/org/lyuwalle/vhr/service/RoleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/src/main/java/org/lyuwalle/vhr/service/SalaryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/src/main/java/org/lyuwalle/vhr/task/MailSendTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/src/main/java/org/lyuwalle/vhr/utils/HrUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/src/main/java/org/lyuwalle/vhr/utils/POIUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/target/classes/org/lyuwalle/vhr/config/RabbitConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/target/classes/org/lyuwalle/vhr/service/DepartmentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/target/classes/org/lyuwalle/vhr/service/EmployeeService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/target/classes/org/lyuwalle/vhr/service/HrService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/target/classes/org/lyuwalle/vhr/service/JobLevelService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/target/classes/org/lyuwalle/vhr/service/MailSendLogService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/target/classes/org/lyuwalle/vhr/service/MenuService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/target/classes/org/lyuwalle/vhr/service/NationService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/target/classes/org/lyuwalle/vhr/service/PoliticsstatusService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/target/classes/org/lyuwalle/vhr/service/PositionService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/target/classes/org/lyuwalle/vhr/service/RoleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/target/classes/org/lyuwalle/vhr/service/SalaryService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/target/classes/org/lyuwalle/vhr/task/MailSendTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/target/classes/org/lyuwalle/vhr/utils/HrUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/target/classes/org/lyuwalle/vhr/utils/POIUtils$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/target/classes/org/lyuwalle/vhr/utils/POIUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-service/vhr-service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/src/main/java/org/lyuwalle/vhr/VhrApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/src/main/java/org/lyuwalle/vhr/config/CustomFilterInvocationSecurityMetadataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/src/main/java/org/lyuwalle/vhr/config/CustomUrlDecisionManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/src/main/java/org/lyuwalle/vhr/config/FastDFSUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/src/main/java/org/lyuwalle/vhr/config/LoginFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/src/main/java/org/lyuwalle/vhr/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/src/main/java/org/lyuwalle/vhr/config/VerificationCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/src/main/java/org/lyuwalle/vhr/config/VerificationCodeFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/src/main/java/org/lyuwalle/vhr/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/src/main/java/org/lyuwalle/vhr/controller/HrInfoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/src/main/java/org/lyuwalle/vhr/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/src/main/java/org/lyuwalle/vhr/controller/config/SystemConfigController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/src/main/java/org/lyuwalle/vhr/controller/emp/EmpBasicController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/src/main/java/org/lyuwalle/vhr/controller/salary/SalaryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/src/main/java/org/lyuwalle/vhr/controller/salary/SobConfigController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/src/main/java/org/lyuwalle/vhr/controller/system/HrController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/src/main/java/org/lyuwalle/vhr/controller/system/basic/DepartmentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/src/main/java/org/lyuwalle/vhr/controller/system/basic/JobLevelController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/src/main/java/org/lyuwalle/vhr/controller/system/basic/PermissController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/src/main/java/org/lyuwalle/vhr/controller/system/basic/PositionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/src/main/java/org/lyuwalle/vhr/myException/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/src/main/resources/fastdfs-client.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/src/test/java/org/lyuwalle/vhr/VhrApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/fastdfs-client.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/org/lyuwalle/vhr/VhrApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/org/lyuwalle/vhr/config/CustomFilterInvocationSecurityMetadataSource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/org/lyuwalle/vhr/config/CustomUrlDecisionManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/org/lyuwalle/vhr/config/FastDFSUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/org/lyuwalle/vhr/config/SecurityConfig$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/org/lyuwalle/vhr/config/SecurityConfig$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/org/lyuwalle/vhr/config/SecurityConfig$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/org/lyuwalle/vhr/config/SecurityConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/org/lyuwalle/vhr/config/VerificationCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/org/lyuwalle/vhr/config/VerificationCodeFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/org/lyuwalle/vhr/controller/HelloController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/org/lyuwalle/vhr/controller/HrInfoController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/org/lyuwalle/vhr/controller/LoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/org/lyuwalle/vhr/controller/config/SystemConfigController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/org/lyuwalle/vhr/controller/emp/EmpBasicController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/org/lyuwalle/vhr/controller/salary/SalaryController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/org/lyuwalle/vhr/controller/salary/SobConfigController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/org/lyuwalle/vhr/controller/system/HrController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/org/lyuwalle/vhr/controller/system/basic/DepartmentController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/org/lyuwalle/vhr/controller/system/basic/JobLevelController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/org/lyuwalle/vhr/controller/system/basic/PermissController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/org/lyuwalle/vhr/controller/system/basic/PositionController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/classes/org/lyuwalle/vhr/myException/GlobalExceptionHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/target/test-classes/org/lyuwalle/vhr/VhrApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-web/vhr-web.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhrserver.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/AdjustSalary.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/AdjustSalary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Appraise.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Appraise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/ChatMsg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/ChatMsg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Department.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/EmpSalary.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/EmpSalary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Employeeec.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Employeeec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Employeeremove.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Employeeremove.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Employeetrain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Employeetrain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Hr.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Hr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/HrRole.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/HrRole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/JobLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/JobLevel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/MailSendLog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/MailSendLog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/MenuRole.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/MenuRole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Meta.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Meta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/MsgContent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/MsgContent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Nation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Nation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/OpLog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/OpLog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Politicsstatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Politicsstatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Position.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Position.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/RespBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/RespBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/RespPageBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/RespPageBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Salary.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Salary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/SysMsg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../vhr/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/SysMsg.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -487,6 +143,11 @@
       <workItem from="1610025648141" duration="600000" />
       <workItem from="1610520729339" duration="61000" />
       <workItem from="1625409782640" duration="1297000" />
+      <workItem from="1625472459295" duration="2485000" />
+      <workItem from="1631856195046" duration="49000" />
+      <workItem from="1631856381915" duration="53000" />
+      <workItem from="1631856495813" duration="538000" />
+      <workItem from="1636006610208" duration="636000" />
     </task>
     <servers />
   </component>

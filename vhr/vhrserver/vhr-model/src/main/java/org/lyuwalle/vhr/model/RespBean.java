@@ -3,7 +3,7 @@ package org.lyuwalle.vhr.model;
 import lombok.Data;
 
 /**
- * 一个处理响应的实体类,config/SecurityConfig中处理登陆成功失败
+ * 一个处理响应的实体类,config/SecurityConfig中处理登录成功失败
  */
 @Data
 public class RespBean {

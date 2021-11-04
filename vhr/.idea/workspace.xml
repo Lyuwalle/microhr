@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e1d5729-4584-4f08-b489-65dd5456c6ea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/RespBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-model/src/main/java/org/lyuwalle/vhr/model/RespBean.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/AdjustSalary.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/AdjustSalary.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Appraise.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/Appraise.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/ChatMsg.class" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-model/target/classes/org/lyuwalle/vhr/model/ChatMsg.class" afterDir="false" />
@@ -8673,19 +8675,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.vhr-web">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="VhrmailserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="vhrmailserver" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyuwalle.vhrmailserver.VhrmailserverApplication" />
@@ -8750,6 +8739,7 @@
       <workItem from="1625407119696" duration="3349000" />
       <workItem from="1625467661755" duration="7265000" />
       <workItem from="1627629890862" duration="5170000" />
+      <workItem from="1636006332364" duration="3268000" />
     </task>
     <servers />
   </component>
